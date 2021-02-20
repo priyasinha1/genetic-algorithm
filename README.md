@@ -4,5 +4,5 @@ o	Use following parameters:
 Population size = 10, Crossover probability= 0.7 and Mutation probability = 0.02; Maximum iteration = 50
 o	Roulette Wheel selection 
 o	Single point crossover 
-o	Mutation: Interchanging 
+o	Mutation: Interchanging
 
